@@ -14,4 +14,17 @@ def fizzbuzz(n):
 
 fizzbuzz(20)
 
+#Excersise 2
+
+mixed_list = [10, "hello", 3.14, 25, "world", 42, 9.81]
+
+filtered_integers = [item for item in mixed_list if isinstance(item, int)]
+
+print(filtered_integers)
+
+
+
+
+
+
 
