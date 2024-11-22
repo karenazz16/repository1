@@ -86,5 +86,8 @@ Session 9: Other data types
 
 
 
-This repository was created and is maintained by Ana Karen Aguirre Zúñiga.
+
+This repository was created and is maintained by Ana Karen Aguirre Zúñiga as part of the ESADE MSc in Business Analytics program.
+
+Feel free to reach out with questions or suggestions!
 
