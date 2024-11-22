@@ -7,9 +7,13 @@ This repository was created to document exercises and solutions from each python
 The sessions and contents are:
 
 Session 1: Python Refresh 
+
 ● Overview of Python syntax and semantics
+
 ● Basic data types and structures
+
 ● Control flow statements and functions
+
 
 Session 2: Working Environment 
 ● Setting up a Python environment (Pyenv, Conda, PyPI)
