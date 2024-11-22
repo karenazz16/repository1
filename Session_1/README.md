@@ -1,8 +1,9 @@
 # Session 1 Homework
 
-The sessions and contents are:
+The session includes 17 exercises that aim to strengthen your understanding of these foundational concepts.
+The topics covered in Session 1 include a refresher on Python fundamentals, designed to ensure a strong foundation for data science concepts. Key areas of focus:
 
-Python Refresh
+
 
 ● Overview of Python syntax and semantics
 
@@ -10,6 +11,6 @@ Python Refresh
 
 ● Control flow statements and functions
 
-This session includes 17 excersise
+
 
 
