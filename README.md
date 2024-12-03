@@ -6,9 +6,9 @@ This repository was created to document exercises and solutions from each python
 
 
 
-##The sessions and contents are:
+## The sessions and contents are:
 
-###Session 1: Python Refresh 
+### Session 1: Python Refresh 
 
 ● Overview of Python syntax and semantics
 
@@ -17,7 +17,7 @@ This repository was created to document exercises and solutions from each python
 ● Control flow statements and functions
 
 
-###Session 2: Working Environment 
+### Session 2: Working Environment 
 
 ● Setting up a Python environment (Pyenv, Conda, PyPI)
 
@@ -26,7 +26,7 @@ This repository was created to document exercises and solutions from each python
 ● IDE setup (VSCode)
 
 
-###Session 3: Object-Oriented Programming Overview 
+### Session 3: Object-Oriented Programming Overview 
 
 ● Classes and objects
 
@@ -35,7 +35,7 @@ This repository was created to document exercises and solutions from each python
 ● Encapsulation and abstraction
 
 
-###Session 4: Basic Libraries I 
+### Session 4: Basic Libraries I 
 
 ● Numpy for numerical operations
 
@@ -44,7 +44,7 @@ This repository was created to document exercises and solutions from each python
 ● Math, os, glob, shutil
 
 
-###Session 5: Basic Libraries II 
+### Session 5: Basic Libraries II 
 
 ● Json for data interchange
 
@@ -55,28 +55,28 @@ This repository was created to document exercises and solutions from each python
 ● Time and Datetime for time manipulation
 
 
-###Session 6: Datasets – Pandas I
+### Session 6: Datasets – Pandas I
 
 ● Loading and exploring datasets
 
 ● Data cleaning and preprocessing with Pandas
 
 
-###Session 7: Datasets – Pandas II 
+### Session 7: Datasets – Pandas II 
 
 ● Advanced data manipulation with Pandas
 
 ● Handling missing data and data transformation
 
 
-###Session 8: Plotting 
+### Session 8: Plotting 
 
 ● Creating basic plots with Matplotlib / Seaborn
 
 ● Plotting techniques and customization
 
 
-###Session 9: Other data types
+### Session 9: Other data types
 
 ● Image manipulation (PIL, OpenCV)
 
