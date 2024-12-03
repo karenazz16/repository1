@@ -1,8 +1,10 @@
-# Session 2 Homework
+# Session 2 Homework: Working Evironment 
 
-This sessions homework contains the 4 exercises and solutions completed for Session 2: Working Environment of the Python for Data Science course. 
+This sessions homework contains the 4 exercises and solutions completed individually. In session 2 we covered the following topics:  
 
-Session 2: Working Environment
 - Setting up a Python environment (Pyenv, Conda, PyPI).
 - Version control with Git and GitHub.
 - IDE setup (VSCode).
+- FizzBuzz function.
+- List Creation
+- Temperature converter with the function celsius_to_fahrenheit
