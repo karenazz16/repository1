@@ -4,7 +4,7 @@
 In this session, we delve into fundamental libraries in Python that are crucial for numerical operations, scientific computing, and general utility tasks.This sessions homework included 6 exercises completed with the annotations zip file.
 
 
-## Libraries Covered
+### Libraries Covered
 
 ● Numpy for numerical operations
 
